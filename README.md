@@ -9,3 +9,4 @@
 ##Tham khảo
 + [POP_BACK_STACK_INCLUSIVE](http://developer.android.com/reference/android/app/FragmentManager.html#POP_BACK_STACK_INCLUSIVE)
 + [popBackStack](http://developer.android.com/reference/android/app/FragmentManager.html#popBackStack(java.lang.String,%20int))
++ [Clear Back Stack using Fragments](http://stackoverflow.com/questions/6186433/clear-back-stack-using-fragments)
