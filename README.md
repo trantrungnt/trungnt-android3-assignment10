@@ -10,3 +10,7 @@
 + [POP_BACK_STACK_INCLUSIVE](http://developer.android.com/reference/android/app/FragmentManager.html#POP_BACK_STACK_INCLUSIVE)
 + [popBackStack](http://developer.android.com/reference/android/app/FragmentManager.html#popBackStack(java.lang.String,%20int))
 + [Clear Back Stack using Fragments](http://stackoverflow.com/questions/6186433/clear-back-stack-using-fragments)
+
+##Môi trường phát triển
++ Bộ công cụ Android Studio 2.1
++ Dùng máy ảo Genymotion: dùng từ phiên bản api 21 đến phiên bản api 23
